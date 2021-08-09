@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meme-creator-app/static/css/main.f9684c15.chunk.css",
+    "main.js": "/meme-creator-app/static/js/main.9fe3535d.chunk.js",
+    "main.js.map": "/meme-creator-app/static/js/main.9fe3535d.chunk.js.map",
+    "runtime-main.js": "/meme-creator-app/static/js/runtime-main.3a0cbdf0.js",
+    "runtime-main.js.map": "/meme-creator-app/static/js/runtime-main.3a0cbdf0.js.map",
+    "static/js/2.c5bf39bc.chunk.js": "/meme-creator-app/static/js/2.c5bf39bc.chunk.js",
+    "static/js/2.c5bf39bc.chunk.js.map": "/meme-creator-app/static/js/2.c5bf39bc.chunk.js.map",
+    "index.html": "/meme-creator-app/index.html",
+    "precache-manifest.1a3524901d20f2fb5ce04611073e4c74.js": "/meme-creator-app/precache-manifest.1a3524901d20f2fb5ce04611073e4c74.js",
+    "service-worker.js": "/meme-creator-app/service-worker.js",
+    "static/css/main.f9684c15.chunk.css.map": "/meme-creator-app/static/css/main.f9684c15.chunk.css.map",
+    "static/js/2.c5bf39bc.chunk.js.LICENSE.txt": "/meme-creator-app/static/js/2.c5bf39bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a0cbdf0.js",
+    "static/js/2.c5bf39bc.chunk.js",
+    "static/css/main.f9684c15.chunk.css",
+    "static/js/main.9fe3535d.chunk.js"
+  ]
+}
